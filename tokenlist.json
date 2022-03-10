@@ -754,6 +754,14 @@
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
+    },
+    {
+      "chainId": 47805,
+      "address": "0xbDd07EC3dFb1690e87626B28764119657B35cC41",
+      "name": "COLA",
+      "symbol": "COLA",
+      "decimals": 18,
+      "logoURI": "https://hiram995.github.io/tokenList/favicon.png"
     }
   ],
   "version": {
