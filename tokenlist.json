@@ -14,14 +14,6 @@
       "symbol": "COLA",
       "decimals": 18,
       "logoURI": "https://hiram995.github.io/tokenList/favicon.png"
-    },
-    {
-      "chainId": 47805,
-      "address": "0x4bC6dAd36f5a6242255888cb1f71C5e6fba79D84",
-      "name": "COLAa",
-      "symbol": "COLAa",
-      "decimals": 18,
-      "logoURI": "https://hiram995.github.io/tokenList/favicon.png"
     }
   ],
   "version": {
