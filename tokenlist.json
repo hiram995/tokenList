@@ -13,8 +13,49 @@
       "name": "COLA",
       "symbol": "COLA",
       "decimals": 18,
-      "logoURI": "https://hiram995.github.io/tokenList/favicon.png"
+      "logoURI": "https://hiram995.github.io/tokenList/img/COLA.png"
+    },
+    {
+      "chainId": 47805,
+      "address": "0x988a631Caf24E14Bb77EE0f5cA881e8B5dcfceC7",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://hiram995.github.io/tokenList/img/USDT.png"
+    },
+    {
+      "chainId": 47805,
+      "address": "0x8059E671Be1e76f8db5155bF4520f86ACfDc5561",
+      "name": "BTC",
+      "symbol": "BTC",
+      "decimals": 8,
+      "logoURI": "https://hiram995.github.io/tokenList/img/BTC.png"
+    },
+    {
+      "chainId": 47805,
+      "address": "0x7a5313468c1C1a3Afb2Cf5ec46558A7D0fc2884A",
+      "name": "ETH",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://hiram995.github.io/tokenList/img/ETH.png"
+    },
+    {
+      "chainId": 47805,
+      "address": "0x0ba85980B122353D77fBb494222a10a46E4FB1f6",
+      "name": "DAI",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://hiram995.github.io/tokenList/img/DAI.png"
+    },
+    {
+      "chainId": 47805,
+      "address": "0x8d5E1225981359E2E09A3AB8F599A51486f53314",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://hiram995.github.io/tokenList/img/USDC.png"
     }
+
   ],
   "version": {
     "major": 2,
