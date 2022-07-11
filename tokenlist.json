@@ -54,6 +54,22 @@
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://hiram995.github.io/tokenList/img/USDC.png"
+    },
+    {
+      "chainId": 47805,
+      "address": "0xcE96DB8349D18914Ee0C0E9aDbb5ab42CF365D2c",
+      "name": "ENG",
+      "symbol": "ENG",
+      "decimals": 18,
+      "logoURI": "https://hiram995.github.io/tokenList/img/ENG.jpeg"
+    },
+    {
+      "chainId": 47805,
+      "address": "0x4D16E639fd1fEEAEDD3861a31A809AED24580548",
+      "name": "TIA",
+      "symbol": "TIA",
+      "decimals": 18,
+      "logoURI": "https://hiram995.github.io/tokenList/img/TIA.jpeg"
     }
 
   ],
